@@ -1,4 +1,0 @@
-dask-ml[xgboost]
-featuretools
-graphviz
-pyarrow
